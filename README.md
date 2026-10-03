@@ -90,7 +90,7 @@ The design uses a clean light theme with:
 
 ## 📷 Dashboard Preview
 
-![Employee_Analytics_Dashboard-]([Employee_Analytics_Dashboard.png](https://github.com/anu78600/Employee_Analytics_Dashboard-/blob/main/Employee_Dashboard.png))
+<img src="Employee_Dashboard.png" width="700">
 
 ##  Learning Outcomes
 
